@@ -7,6 +7,8 @@ Social media analysis: You can anlayze data from social media services such as t
 
 The purpose of this repo is to show how you can analyze Whatsapp data.
 
-I used TextBlob which is a library used for sentimental analysis
+I used TextBlob which is a library used for sentimental analysis.
+
+The pictorial result of this analysis shows that over 90% of the chats are neutral.
 
   
